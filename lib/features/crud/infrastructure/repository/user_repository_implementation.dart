@@ -1,9 +1,9 @@
 
 import 'package:dio/dio.dart';
 import 'package:dioclient_tutorial/core/internet_services/paths.dart';
-import 'package:dioclient_tutorial/features/user_list/domain/model/new_user.dart';
-import 'package:dioclient_tutorial/features/user_list/domain/model/user.dart';
-import 'package:dioclient_tutorial/features/user_list/domain/repository/user_repository.dart';
+import 'package:dioclient_tutorial/features/crud/domain/model/new_user.dart';
+import 'package:dioclient_tutorial/features/crud/domain/model/user.dart';
+import 'package:dioclient_tutorial/features/crud/domain/repository/user_repository.dart';
 
 import '../../../../core/internet_services/dio_client.dart';
 import '../../../../core/internet_services/dio_exception.dart';

@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 
-import 'features/user_list/presentation/screens/user_list.dart';
+import 'features/crud/presentation/screens/user_list.dart';
 
 void main() {
   runApp(const ProviderScope(child: MyApp()));

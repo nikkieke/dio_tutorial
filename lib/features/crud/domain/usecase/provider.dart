@@ -1,4 +1,4 @@
-import 'package:dioclient_tutorial/features/user_list/domain/usecase/user_usecase.dart';
+import 'package:dioclient_tutorial/features/crud/domain/usecase/user_usecase.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import '../../infrastructure/repository/provider.dart';
 

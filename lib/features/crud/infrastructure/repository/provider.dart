@@ -1,5 +1,5 @@
-import 'package:dioclient_tutorial/features/user_list/domain/repository/user_repository.dart';
-import 'package:dioclient_tutorial/features/user_list/infrastructure/repository/user_repository_implementation.dart';
+import 'package:dioclient_tutorial/features/crud/domain/repository/user_repository.dart';
+import 'package:dioclient_tutorial/features/crud/infrastructure/repository/user_repository_implementation.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 
 

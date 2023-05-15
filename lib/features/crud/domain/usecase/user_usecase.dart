@@ -1,5 +1,4 @@
-import 'package:dioclient_tutorial/features/user_list/domain/repository/user_repository.dart';
-
+import 'package:dioclient_tutorial/features/crud/domain/repository/user_repository.dart';
 import '../model/new_user.dart';
 import '../model/user.dart';
 

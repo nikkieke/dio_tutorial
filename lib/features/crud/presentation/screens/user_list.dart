@@ -1,4 +1,4 @@
-import 'package:dioclient_tutorial/features/user_list/presentation/screens/update_user.dart';
+import 'package:dioclient_tutorial/features/crud/presentation/screens/update_user.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 

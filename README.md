@@ -14,10 +14,10 @@ In the dynamic world of Flutter app development, the ability to perform efficien
 
 ## Requirements
 
-- Flutter SDK (version X.X.X)
-- Dart SDK (version X.X.X)
-- Dio library (version X.X.X)
-- Riverpod (version X.X.X)
+- Flutter SDK
+- Dart SDK 
+- Dio library 
+- Riverpod library
 - Other dependencies as specified in the `pubspec.yaml` file.
 
 ## Installation

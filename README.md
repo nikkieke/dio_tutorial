@@ -27,6 +27,8 @@ In the dynamic world of Flutter app development, the ability to perform efficien
 3. Open the project in your preferred IDE or editor.
 4. Run `flutter pub get` to install the required dependencies.
 
+## Project Guide
+Follow this [link](https://clouds.hashnode.dev/efficient-crud-operations-in-flutter-a-guide-to-implementing-http-requests-with-clean-architecture-and-dio) for an in-depth guide to build this project from scratch
 
 ## Project Structure
 

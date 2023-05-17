@@ -34,7 +34,7 @@ The project follows a clean architecture approach to keep the codebase organized
 
 - **lib**: Contains the main application code.
   - **data**: Responsible for data handling.
-    - **datasources**: Defines the data sources, such as the API service.
+    - **datasources**: Defines the data sources
     - **repository**: Implements the repository pattern to handle data operations.
   - **domain**: Contains the business logic and use cases of the application.
     - **model**: Contains the data models used in the application.

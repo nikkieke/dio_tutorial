@@ -44,7 +44,7 @@ The project follows a clean architecture approach to keep the codebase organized
     - **usecases**: Implements the use cases that interact with the repositories.
   - **presentation**: Handles the UI layer and user interactions.
     - **screen**: Contains the different screens of the application.
-    - **view_model**: Implements Riverpod for state management.
+    - **view_model**: Implements Riverpod for state management
 
 ## Usage
 

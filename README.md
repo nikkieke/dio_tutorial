@@ -10,7 +10,7 @@ In the dynamic world of Flutter app development, the ability to perform efficien
 - Perform CRUD operations on the API.
 - Clean architecture promotes separation of concerns and maintainability.
 - Use of Dio library for making HTTP requests.
-- Use Riverpod for state management
+- Use Riverpod for state management.
 
 ## Requirements
 
